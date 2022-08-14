@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Vishdarkbright21
+- 👋 Hi, I’m Vishwajeet Maurya a Computer Science Student.
+
 - 👀 I’m interested in CHANGE 
+
 - 🌱 I’m currently learning WEB DEVLOPMENT
+
 - 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me --- My twitter  I'd @Vish2032.
 
 <!---
